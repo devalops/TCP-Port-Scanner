@@ -9,9 +9,6 @@ Therefore, this script helps you to discover suspicious ports, which might sugge
 
 ### Usage:
 
-```python
-python scanner.py
-```
 1. Specify the type of IP address (IPv4 or IPv6)
 2. Enter the minimum port number for your scan range
 3. Enter the maximum port number for your scan range
